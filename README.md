@@ -1,3 +1,8 @@
+This is based off of the tutorial from dgraph-io
+
+
+
+
 Deployment status : [![Netlify Status](https://api.netlify.com/api/v1/badges/9e33b3f0-6d5f-4611-8ee6-40a1cdd98f3d/deploy-status)](https://app.netlify.com/sites/slash-graphql-todos/deploys)
 
 # Multi-user task-list React App powered by Slash GraphQL
